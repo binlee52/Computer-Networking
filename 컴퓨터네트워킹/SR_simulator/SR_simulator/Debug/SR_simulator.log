@@ -1,0 +1,47 @@
+﻿  SR_simulator.c
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(84,16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(85,17): warning C4013: 'tolayer3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(87,23): warning C4013: 'starttimer'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(98,15): warning C4033: 'A_output'은(는) 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(122,15): warning C4033: 'A_input'은(는) 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(129,15): warning C4033: 'A_input'은(는) 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(136,18): warning C4013: 'stoptimer'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(182,15): warning C4033: 'B_input'은(는) 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(188,15): warning C4033: 'B_input'은(는) 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(196,15): warning C4033: 'B_input'은(는) 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(200,13): warning C4013: 'tolayer5'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(208,16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'pkt'입니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(316,9): warning C4013: 'init'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(342,34): warning C4013: 'generate_next_arrival'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(369,17): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(314,10): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(412,10): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(416,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(421,13): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(398,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(400,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(402,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(404,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(406,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(408,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(410,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(441,13): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(441,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(463,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(469,16): warning C4013: 'insertevent'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(455,9): warning C4101: 'tempint' :참조되지 않은 지역 변수입니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(454,11): warning C4101: 'ttime' :참조되지 않은 지역 변수입니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(514,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(551,19): warning C4033: 'stoptimer'은(는) 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(530,24): warning C4101: 'qold' :참조되지 않은 지역 변수입니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(573,19): warning C4033: 'starttimer'은(는) 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(578,37): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(604,15): warning C4033: 'tolayer3'은(는) 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(430): warning C4716: 'init': 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(509): warning C4716: 'insertevent': 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(470): warning C4716: 'generate_next_arrival': 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(554): warning C4716: 'stoptimer': 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(671): warning C4716: 'tolayer5': 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(657): warning C4716: 'tolayer3': 값을 반환해야 합니다.
+C:\Users\sword\Desktop\SR_simulator\SR_simulator\SR_simulator.c(582): warning C4716: 'starttimer': 값을 반환해야 합니다.
+  SR_simulator.vcxproj -> C:\Users\sword\Desktop\SR_simulator\Debug\SR_simulator.exe
